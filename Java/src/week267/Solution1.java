@@ -1,3 +1,5 @@
+package week267;
+
 
 class ListNode {
     int val;
@@ -16,7 +18,7 @@ class ListNode {
     }
 }
 
-class Solution {
+class Solution1 {
     public ListNode reverseKGroup(ListNode head, int k) {
         ListNode dummy = new ListNode(0, head);
         ListNode cur = dummy;
