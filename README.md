@@ -1,1 +1,1 @@
-# Leetcood-weekly
+# Leetcode-weekly
